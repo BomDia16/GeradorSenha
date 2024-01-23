@@ -10,5 +10,5 @@
   ![Tela de senha gerada](https://github.com/BomDia16/GeradorSenha/assets/138690638/1b6dd675-817b-40dc-8b16-f1fd43ecad8b)
 
   # Tela das senhas salvas
-  Uma tela que mostra todas as senhas salvas, onde tem as opções de copiar ou deletar a senha, além de poder deizxar as senhas ocultas.
+  Uma tela que mostra todas as senhas salvas, onde tem as opções de copiar ou deletar a senha, além de poder deixar as senhas ocultas.
   ![Tela senhas](https://github.com/BomDia16/GeradorSenha/assets/138690638/a2c9bd93-7367-4044-a7c9-7140118e63e0)
